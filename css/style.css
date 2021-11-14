@@ -5,8 +5,7 @@
 
 body{
     min-height: 100vh;
-    background: #142F43;
-    background-image: url(/assets/spidey.jpg);
+    background-image: url(assets/spidey.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
